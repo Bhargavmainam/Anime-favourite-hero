@@ -38,6 +38,12 @@ main{
 main img{
     width: 100%;
 }
+.frnds{
+    color: rgb(3, 146, 67);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
+
 h2{
     color: crimson;
     font-size: 2rem;
