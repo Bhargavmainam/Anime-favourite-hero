@@ -10,9 +10,7 @@ header h1{
     text-align: center;
    
 }
-.image{
+header img{
     border-radius: 15%;
-    display: flex;
-    justify-content:center;
-    width: 100px;
-}                                                 
+    
+}
