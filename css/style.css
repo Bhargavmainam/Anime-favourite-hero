@@ -12,5 +12,7 @@ header h1{
 }
 header img{
     border-radius: 15%;
+    position: relative;
+    left: 50%;
     
 }
