@@ -1,18 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Passero+One&family=Rock+Salt&display=swap');@import url('https://fonts.googleapis.com/css2?family=Passero+One&family=Rock+Salt&display=swap');
+/* font-family: 'Passero One', cursive;
+font-family: 'Rock Salt', cursive; */
 body{
     margin: 0;
     
 }
 header{
-    background-color:#289176;
-}
+    background-color:#289176;        
+     padding: 50px 0 50px 0;
+}      
 header h1{
-    color: #fff;
+    color: #121415;
     text-align: center;
+    letter-spacing: 4px;
+    font-size: 2.5rem;
+    text-decoration: overline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
    
 }
 header img{
-    border-radius: 15%;
+    border-radius: 70%;
     position: relative;
-    left: 50%;
+    left: 35%;
+    width: 350px;
+    border: 20px solid #242423;
     
+}
+h1, h2{
+    font-family:'Passero One', cursive; 
+}
+main{
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+main img{
+    width: 100%;
+}
+h2{
+    color: crimson;
+    font-size: 2rem;
+}
+p, li{
+    font-family: 'Rock Salt', cursive; 
+    font-size: 18px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: whitesmoke;
+    background:rgb(26, 69, 80);
+    border-radius: 20px;
+    
+}
+footer{
+    background: #289176;
+    padding: 30px;
+}
+footer p{
+    text-align: center;
+    font-family: 'Passero One', cursive;
+    color:white ;
+    font-size: 1.6rem;
+}
+span{
+    font-size: 2rem;
+    color:rgb(3, 236, 108);
 }
